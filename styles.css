@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    -webkit-font-smoothing: subpixel-antialiased; /*If you don't have this, add it in! */
+    -webkit-font-smoothing: subpixel-antialiased; 
     overflow-x: hidden;
 }
 /*******
